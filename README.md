@@ -1,4 +1,4 @@
-# ChrtPT
+# ChartPT
 물리치료사들을 위한 환자 평가 관리 시스템입니다
 
 ## 개요
@@ -15,5 +15,7 @@
 - Backend : https://github.com/pro047/ChartPT_Back
 
 ## 스크린샷
-- main page : https://github.com/pro047/ChartPT/blob/main/mainpage.png
-- patient page : 
+- 메인 페이지 : https://github.com/pro047/ChartPT/blob/main/mainpage.png
+- 환자 페이지 : https://github.com/pro047/ChartPT/blob/main/patientpage.png
+- 라인 그래프 페이지 : https://github.com/pro047/ChartPT/blob/main/linegraph.png
+- 평가 조회 페이지 : https://github.com/pro047/ChartPT/blob/main/evaluationpage.png
