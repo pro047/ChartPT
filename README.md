@@ -15,4 +15,5 @@
 - Backend : https://github.com/pro047/ChartPT_Back
 
 ## 스크린샷
-- main page : 
+- main page : https://github.com/pro047/ChartPT/blob/main/mainpage.png
+- patient page : 
