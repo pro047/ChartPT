@@ -15,3 +15,4 @@
 - Backend : https://github.com/pro047/ChartPT_Back
 
 ## 스크린샷
+- main page : 
